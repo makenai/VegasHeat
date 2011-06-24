@@ -1,0 +1,10 @@
+#mapView {
+	width: 800px;
+	height: 700px;
+	float: left;
+}
+
+#tracks {
+	width 500px;
+	margin-left: 800px;
+}
